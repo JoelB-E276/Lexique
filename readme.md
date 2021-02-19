@@ -6,7 +6,7 @@ En aucun cas cet exercice n'est fait pour m'apprendre a :
 - utiliser Git   
 - utiliser GitHub et sa solution de stockage distant   
 - chercher des réponses sur le web  
-- Taper un text au format .md  
+- taper un texte au format .md  
 - bien d'autres choses, mais là je dois faire court!  
 
 
