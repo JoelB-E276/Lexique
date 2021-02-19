@@ -1,5 +1,5 @@
 #Lexique du vocabulaire du web
-Création de ce fichier pour faire plaisir à mon formateur T.G. 
+Création de ce fichier pour faire plaisir à mon formateur **Thomas Gossart**. 
 En aucun cas cet exercice n'est fait pour m'apprendre a :
 -utiliser Git
 -utiliser GitHub et sa solution de stockage distant
@@ -8,11 +8,13 @@ En aucun cas cet exercice n'est fait pour m'apprendre a :
 -bien d'autres choses, mais là je dois faire court!
 
 ##Lexique
+
 **Back-end** : C’est la partie du code qui est exécutée par le serveur. Les langages serveurs sont
  différents de ceux utilisés par le "client" (PHP, Java, Python, Ruby , NodeJs, ASP.Net etc.)
 
 **Base de données** :Les bases de données sont utilisées par de nombreuses entreprises pour stocker,
  organiser et analyser les données.
+
 **Client** : C'est un logiciel installé sur le poste de travail qui permet d'accéder à un serveur
  du même type. Par usage : Client de messagerie, Client HTTP (web), Client IRC (chat), Client FTP 
 (transfert de fichiers), Client Jabber/XMPP (messagerie instantanée), Client SSH 
