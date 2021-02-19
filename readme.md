@@ -1,4 +1,6 @@
-#Lexique du vocabulaire du web
+#Lexique du vocabulaire du web   
+
+
 Création de ce fichier pour faire plaisir à mon formateur **Thomas Gossart**.    
 En aucun cas cet exercice n'est fait pour m'apprendre a :   
 - utiliser Git   
