@@ -1,13 +1,15 @@
 #Lexique du vocabulaire du web
-Création de ce fichier pour faire plaisir à mon formateur **Thomas Gossart**. 
-En aucun cas cet exercice n'est fait pour m'apprendre a :
--utiliser Git
--utiliser GitHub et sa solution de stockage distant
--chercher des réponses sur le web
--Taper un text au format .md
--bien d'autres choses, mais là je dois faire court!
+Création de ce fichier pour faire plaisir à mon formateur **Thomas Gossart**.    
+En aucun cas cet exercice n'est fait pour m'apprendre a :   
+- utiliser Git   
+- utiliser GitHub et sa solution de stockage distant   
+- chercher des réponses sur le web  
+- Taper un text au format .md  
+- bien d'autres choses, mais là je dois faire court!  
 
-##Lexique
+
+##Lexique   
+
 
 **Back-end** : C’est la partie du code qui est exécutée par le serveur. Les langages serveurs sont
  différents de ceux utilisés par le "client" (PHP, Java, Python, Ruby , NodeJs, ASP.Net etc.)
